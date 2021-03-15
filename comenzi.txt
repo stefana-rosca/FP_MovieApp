@@ -1,0 +1,5 @@
+1,hora,dutu,aa 100,
+3,dff,b,aa 100,
+1,hora,dutu,aa 100,
+2,rosca,stf,joker 10,
+3,galos,iulia,joker 10,
